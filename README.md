@@ -1,41 +1,52 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="150"/>
-</div>
+# Bonjour, je suis **Tundé GOUNON** ! 👋
+
+Je suis un développeur full stack passionné par la création d'applications web performantes et de logiciels sur mesure. Curieux et motivé, je mets un point d’honneur à offrir des solutions efficaces à mes utilisateurs. 🚀
+
+![Tundé GOUNON's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tund229&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ---
 
-# 👋 Bonjour, moi c'est Tundé GOUNON !
+## 🚀 À propos de moi
 
-🎯 **Développeur Full Stack passionné** : Je crée des applications performantes avec Laravel, Next.js et Tailwind CSS.
-
-- 🌱 Je travaille sur des solutions innovantes pour la gestion d'État civil.
-- 👯 Je suis ouvert à des collaborations passionnantes sur des projets web et mobile.
-- 📫 Contactez-moi : **[tundegounon@gmail.com](mailto:tundegounon@gmail.com)**
-
----
-
-## 🚀 Technologies et outils :
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30"/>
-</p>
+- 🔭 **Actuellement :** Développement d’une plateforme de gestion d’État civil avec Laravel et Next.js.
+- 📝 **J’aime partager mes connaissances :** J’écris des articles et j’aide la communauté tech.
+- 🌱 **En exploration :**
+  - Apprentissage avancé de Tailwind CSS pour des interfaces modernes.
+  - Développement de logiciels Python pour ponts bascules.
+  - Automatisation avec MongoDB et Python.
+- 👯 **Collaboration :** Je suis ouvert à toute opportunité de projet intéressant.
 
 ---
 
-## 🌐 Connectez-vous avec moi :
-<p align="center">
-  <a href="https://www.linkedin.com/in/tundé-gounon-9b19b4228/" title="LinkedIn"><img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" height="30"/></a>
-  <a href="https://twitter.com/Tunde_gounon" title="Twitter"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" height="30"/></a>
-  <a href="https://www.instagram.com/tunde_gnn/" title="Instagram"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" height="30"/></a>
-</p>
+## 🌱 Technologies et compétences
+
+[![Compétences](https://skillicons.dev/icons?i=laravel,nextjs,tailwind,python,mysql,js,vue)](https://skillicons.dev)
 
 ---
 
-## 📊 Mes statistiques GitHub :
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tund229&show_icons=true&theme=dark" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tund229&layout=compact&theme=dark" alt="Langages" width="48%"/>
-</p>
+## ✍️ Projets récents
+
+### 1️⃣ **Gestion d'État civil**
+- Stack : Laravel, Next.js, MongoDB.
+- Fonctionnalités : Automatisation des processus administratifs pour les municipalités.
+
+### 2️⃣ **Logiciel de pesée**
+- Stack : Python, Tkinter, SQLite.
+- Fonctionnalités : Gestion complète des opérations de pesée pour ponts bascules.
+
+---
+
+## 🏆 Réalisations
+
+- 🌟 Contributeur à des projets Open Source pendant Hacktoberfest 2023.
+- 🚀 Développement de solutions logicielles sur mesure pour entreprises locales.
+
+---
+
+## 📬 Contactez-moi
+
+- **Twitter :** [@Tunde_gounon](https://twitter.com/Tunde_gounon)  
+- **LinkedIn :** [Tundé Gounon](https://www.linkedin.com/in/tundé-gounon-9b19b4228/)  
+- **Email :** [tundegounon@gmail.com](mailto:tundegounon@gmail.com)
+
+Merci de visiter mon profil ! Connectons-nous et explorons ensemble le monde fascinant de la technologie. 🌟
