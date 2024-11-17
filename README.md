@@ -1,18 +1,19 @@
 # Bonjour, je suis **Tundé GOUNON** ! 👋
 
-Je suis un développeur full stack passionné par la création d'applications web performantes et de logiciels sur mesure. Curieux et motivé, je mets un point d’honneur à offrir des solutions efficaces à mes utilisateurs. 🚀
+Je suis un développeur full stack passionné, spécialisé dans la création d'applications web performantes et de logiciels sur mesure. Curieux et motivé, je m’efforce d’offrir des solutions innovantes et adaptées aux besoins des utilisateurs. 🚀
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tund229&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&cache_seconds=1800)
+
 ---
 
 ## 🚀 À propos de moi
 
-- 📝 **J’aime partager mes connaissances :** J’écris des articles et j’aide la communauté tech.
+- 📝 **J’aime partager mes connaissances :** Rédaction d’articles et mentorat au sein de la communauté tech.  
 - 🌱 **En exploration :**
-  - Apprentissage avancé de Tailwind CSS pour des interfaces modernes.
-  - Développement de logiciels Python pour ponts bascules.
-  - Automatisation avec MongoDB et Python.
-- 👯 **Collaboration :** Je suis ouvert à toute opportunité de projet intéressant.
+  - Création d'interfaces modernes avec **Tailwind CSS**.  
+  - Développement de logiciels industriels avec **Python** et gestion de base de données SQLite.  
+  - Automatisation avancée grâce à **MongoDB** et **Python**.  
+- 👯 **Collaboration :** Toujours partant pour travailler sur des projets innovants ou des défis technologiques !
 
 ---
 
@@ -24,20 +25,20 @@ Je suis un développeur full stack passionné par la création d'applications we
 
 ## ✍️ Projets récents
 
-### 1️⃣ **Gestion d'État civil**
-- Stack : Laravel, Next.js, MongoDB.
-- Fonctionnalités : Automatisation des processus administratifs pour les municipalités.
+### 1️⃣ **Gestion d'État Civil (SAMA ETAT Civil)**  
+- **Stack :** Laravel, Next.js, MongoDB  
+- **Description :** Automatisation des processus administratifs des municipalités, simplification des tâches comme l’enregistrement des naissances.  
 
-### 2️⃣ **Logiciel de pesée**
-- Stack : Python, Tkinter, SQLite.
-- Fonctionnalités : Gestion complète des opérations de pesée pour ponts bascules.
+### 2️⃣ **Logiciel de Pesée (Pont-Bascule)**  
+- **Stack :** Python, Tkinter, SQLite  
+- **Description :** Gestion complète des opérations de pesée (poids brut, tare et net) pour les industries, avec impression des tickets de pesée.  
 
 ---
 
 ## 🏆 Réalisations
 
-- 🌟 Contributeur à des projets Open Source pendant Hacktoberfest 2023.
-- 🚀 Développement de solutions logicielles sur mesure pour entreprises locales.
+- 🌟 Participation active à Hacktoberfest 2023 avec des contributions à des projets Open Source.  
+- 🚀 Développement de solutions logicielles adaptées aux besoins spécifiques des entreprises locales.  
 
 ---
 
@@ -47,4 +48,5 @@ Je suis un développeur full stack passionné par la création d'applications we
 - **LinkedIn :** [Tundé Gounon](https://www.linkedin.com/in/tundé-gounon-9b19b4228/)  
 - **Email :** [tundegounon@gmail.com](mailto:tundegounon@gmail.com)
 
-Merci de visiter mon profil ! Connectons-nous et explorons ensemble le monde fascinant de la technologie. 🌟
+Merci d’avoir pris le temps de découvrir mon profil !  
+📌 **Connectons-nous** pour partager nos idées et explorer ensemble le monde de la technologie. 🌟
