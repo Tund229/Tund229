@@ -2,8 +2,6 @@
 
 Je suis un développeur full stack passionné, spécialisé dans la création d'applications web performantes et de logiciels sur mesure. Curieux et motivé, je m’efforce d’offrir des solutions innovantes et adaptées aux besoins des utilisateurs. 🚀
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tund229&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&cache_seconds=1800)
-
 ---
 
 ## 🚀 À propos de moi
