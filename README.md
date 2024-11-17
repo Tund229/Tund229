@@ -21,25 +21,6 @@ Je suis un développeur full stack passionné, spécialisé dans la création d'
 
 ---
 
-## ✍️ Projets récents
-
-### 1️⃣ **Gestion d'État Civil (SAMA ETAT Civil)**  
-- **Stack :** Laravel, Next.js, MongoDB  
-- **Description :** Automatisation des processus administratifs des municipalités, simplification des tâches comme l’enregistrement des naissances.  
-
-### 2️⃣ **Logiciel de Pesée (Pont-Bascule)**  
-- **Stack :** Python, Tkinter, SQLite  
-- **Description :** Gestion complète des opérations de pesée (poids brut, tare et net) pour les industries, avec impression des tickets de pesée.  
-
----
-
-## 🏆 Réalisations
-
-- 🌟 Participation active à Hacktoberfest 2023 avec des contributions à des projets Open Source.  
-- 🚀 Développement de solutions logicielles adaptées aux besoins spécifiques des entreprises locales.  
-
----
-
 ## 📬 Contactez-moi
 
 - **Twitter :** [@Tunde_gounon](https://twitter.com/Tunde_gounon)  
