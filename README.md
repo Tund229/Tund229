@@ -2,13 +2,11 @@
 
 Je suis un développeur full stack passionné par la création d'applications web performantes et de logiciels sur mesure. Curieux et motivé, je mets un point d’honneur à offrir des solutions efficaces à mes utilisateurs. 🚀
 
-![Tundé GOUNON's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tund229&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tund229&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&cache_seconds=1800)
 ---
 
 ## 🚀 À propos de moi
 
-- 🔭 **Actuellement :** Développement d’une plateforme de gestion d’État civil avec Laravel et Next.js.
 - 📝 **J’aime partager mes connaissances :** J’écris des articles et j’aide la communauté tech.
 - 🌱 **En exploration :**
   - Apprentissage avancé de Tailwind CSS pour des interfaces modernes.
